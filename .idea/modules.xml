@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/customer management system/customer_management_systemem.iml" filepath="$PROJECT_DIR$/customer management system/customer_management_systemem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservice.iml" filepath="$PROJECT_DIR$/.idea/microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/notification management system/notification_management_system.iml" filepath="$PROJECT_DIR$/notification management system/notification_management_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order list management system/order_list_management_system.iml" filepath="$PROJECT_DIR$/order list management system/order_list_management_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/place order management system/place_order_management_system.iml" filepath="$PROJECT_DIR$/place order management system/place_order_management_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wishlist management system/wishlist_management_system.iml" filepath="$PROJECT_DIR$/wishlist management system/wishlist_management_system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul_proxy/zullrouting.iml" filepath="$PROJECT_DIR$/zuul_proxy/zullrouting.iml" />
+    </modules>
+  </component>
+</project>
